@@ -1,0 +1,12 @@
+QSE-Core/
+├── README.md               # Manifiesto de Dominación
+├── LICENSE                 # Mozilla Public License 2.0
+├── requirements.txt        # Dependencias de hardware y software
+├── src/
+│   ├── __init__.py
+│   ├── oracle_llm_fluid.py  # Módulo 1: Oráculo de Mapeado
+│   └── iaq_gatekeeper.py    # Módulo 2: Núcleo IAQ (Gatekeeper)
+├── config/
+│   └── settings.json       # Configuración de fluidez (SLA 88%)
+└── tmp/                    # Almacén de bus de datos (Volátil)
+    └── .gitkeep

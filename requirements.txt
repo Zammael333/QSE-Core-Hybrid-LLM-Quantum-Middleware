@@ -1,0 +1,4 @@
+numpy>=1.21.0
+qiskit>=0.44.0
+qiskit-aer>=0.12.0
+psutil>=5.9.0

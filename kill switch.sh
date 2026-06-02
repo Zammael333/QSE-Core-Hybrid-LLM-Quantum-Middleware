@@ -1,0 +1,1 @@
+export NEXUS_KILL_SWITCH="TRUE"
